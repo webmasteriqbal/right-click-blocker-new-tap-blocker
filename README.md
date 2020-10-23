@@ -8,8 +8,19 @@ With this script you can block your web site Right Click Block & New Tap.
 - For easy use
 - Lots of small files
 
-## How To Use 
 
+## Where is Js File ?
+
+<a href="https://github.com/webmasteriqbal/right-click-Blocker-new-tap-blocker/archive/main.zip">Click Here To Download </a> Once downloaded, go to the "right-click-Blocker-new-tap-blocker-main" folder, enter the "dist" folder and paste the "js" folder into the project folder.
+
+
+## How To Use 
+If jquery is not linked, then you have to link as below.
+```js
+    <script src="js/jquery-3.5.1.min.js"></script>
+```
+
+Below the jquery link is the right-click-Blocker-new-tap-blocker link.
 ```js
 <script src="js/right-click-Blocker-new-tap-blocker.min.js"></script>
 ```
