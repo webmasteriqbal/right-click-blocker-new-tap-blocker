@@ -1,0 +1,1 @@
+# right-click-Blocker-new-tap-blocker
