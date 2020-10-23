@@ -3,7 +3,7 @@
 
 ## About
 
-With this script you can block your web site Right Click Block & New Tap.
+With this script you can block your web site Right Click Block & New Tap. <a href="https://webmasteriqbal.github.io/right-click-blocker-new-tap-blocker/Demo/index.html">click here to view demo</a>
 
 - For easy use
 - Lots of small files
